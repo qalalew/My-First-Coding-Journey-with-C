@@ -3,6 +3,6 @@ def centered_pyramid(h):
         spaces = h - i
         stars = 2 * i - 1
         print(" " * spaces + "*" * stars)
-
-height = int(input("Enter the height of the pyramid: "))
+ 
+height = int(input("please can you Enter the height of the pyramid?: "))
 centered_pyramid(height)
