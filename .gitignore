@@ -417,4 +417,4 @@ FodyWeavers.xsd
 *.msm
 *.msp
 *.exe
-desktop.ini
+**/desktop.ini
