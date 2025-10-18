@@ -31,6 +31,6 @@ int main () {
 	}
     
 /*the results of 2 subjects of 5 studets are given.
-  the average in each subject is asked.
+  the average in eacg subject is asked.
   i is for the subjects and j is for students
   so 0 and 1 in the result stands for the 2 subjects*/
